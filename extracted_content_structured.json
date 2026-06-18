@@ -1,0 +1,1177 @@
+{
+    "job_id": "test_job_id",
+    "total_pages": 2,
+    "pages": [
+        {
+            "page_number": 1,
+            "width": 595.2750244140625,
+            "height": 841.8889770507812,
+            "blocks": [
+                {
+                    "type": 0,
+                    "number": 0,
+                    "bbox": [
+                        70.86599731445312,
+                        96.614990234375,
+                        262.9809265136719,
+                        105.9179916381836
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Technische Universität München - 80333 München - Germany"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                96.614990234375,
+                                262.9809265136719,
+                                105.9179916381836
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 1,
+                    "bbox": [
+                        70.86599731445312,
+                        119.18299102783203,
+                        293.6599426269531,
+                        178.80198669433594
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Obinna Okey"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                119.18299102783203,
+                                135.02899169921875,
+                                133.80198669433594
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "House 27 Oniru Resettlement, Victoria Island "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                134.1829833984375,
+                                293.6599426269531,
+                                148.80198669433594
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "101241 Ikpoba Hill"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                149.1829833984375,
+                                161.93499755859375,
+                                163.80198669433594
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "NIGERIA"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                164.1829833984375,
+                                116.04299926757812,
+                                178.80198669433594
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 2,
+                    "bbox": [
+                        70.86599731445312,
+                        224.08001708984375,
+                        184.94699096679688,
+                        238.69900512695312
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "München, 11. Mai 2026"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                224.08001708984375,
+                                184.94699096679688,
+                                238.69900512695312
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 3,
+                    "bbox": [
+                        70.86599731445312,
+                        254.02500915527344,
+                        396.9059753417969,
+                        269.27099609375
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "Arial-BoldMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Bestätigung über die Anmeldung zum Wintersemester 2026/27"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                254.02500915527344,
+                                396.9059753417969,
+                                269.27099609375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 4,
+                    "bbox": [
+                        70.86599731445312,
+                        299.08001708984375,
+                        503.26483154296875,
+                        344.27099609375
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Obinna Okey, geb. am 07.07.2001 hat sich online fristgerecht am 19.03.2026 für das am "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                299.08001708984375,
+                                503.26483154296875,
+                                313.6990051269531
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "01.10.2026 beginnende Wintersemester 2026/27 im folgenden Studiengang beworben:"
+                                },
+                                {
+                                    "size": 11.0,
+                                    "font": "Arial-BoldMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": " "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                314.0250244140625,
+                                497.4679870605469,
+                                329.27099609375
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "Arial-BoldMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Land Management and Geospatial Science Masterstudium [Master of Science] "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                329.0250244140625,
+                                481.8918151855469,
+                                344.27099609375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 5,
+                    "bbox": [
+                        70.86599731445312,
+                        359.08001708984375,
+                        521.7998046875,
+                        388.6990051269531
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Das Wintersemester 2026/27 beginnt am 1. Oktober 2026 und endet am 31. März 2027. Die "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                359.08001708984375,
+                                521.7998046875,
+                                373.6990051269531
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Vorlesungen finden vom 12. Oktober 2026 bis zum 5. Februar 2027 statt."
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                374.08001708984375,
+                                425.8688659667969,
+                                388.6990051269531
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 6,
+                    "bbox": [
+                        70.86599731445312,
+                        404.08001708984375,
+                        78.19200134277344,
+                        418.6990051269531
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "--"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                404.08001708984375,
+                                78.19200134277344,
+                                418.6990051269531
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 7,
+                    "bbox": [
+                        70.86599731445312,
+                        434.0250244140625,
+                        365.14898681640625,
+                        449.27099609375
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "Arial-BoldMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Confirmation of registration for Winter semester 2026/27"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                434.0250244140625,
+                                365.14898681640625,
+                                449.27099609375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 8,
+                    "bbox": [
+                        70.86599731445312,
+                        479.08001708984375,
+                        518.10400390625,
+                        524.27099609375
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Obinna Okey, born on 07.07.2001, has applied online in due time on 19.03.2026 for the "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                479.08001708984375,
+                                497.8088073730469,
+                                493.6990051269531
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "semester Winter semester 2026/27 starting on 01.10.2026 for the following course of study:"
+                                },
+                                {
+                                    "size": 11.0,
+                                    "font": "Arial-BoldMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": " "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                494.0250244140625,
+                                518.10400390625,
+                                509.27099609375
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "Arial-BoldMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Land Management and Geospatial Science Master's program [Master of Science] "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                509.0250244140625,
+                                495.5097961425781,
+                                524.27099609375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 9,
+                    "bbox": [
+                        70.86599731445312,
+                        539.0800170898438,
+                        537.0678100585938,
+                        568.6990356445312
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "The Winter semester 2026/27 starts on 1. October 2026 and ends on 31. March 2027. Lectures "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                539.0800170898438,
+                                537.0678100585938,
+                                553.6990356445312
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "are held from 12. October 2026 until 5. February 2027."
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                554.0800170898438,
+                                336.6479187011719,
+                                568.6990356445312
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 10,
+                    "bbox": [
+                        70.86599731445312,
+                        584.0800170898438,
+                        235.24996948242188,
+                        658.698974609375
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": " "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                584.0800170898438,
+                                73.91299438476562,
+                                598.6990356445312
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": " "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                599.0800170898438,
+                                73.91299438476562,
+                                613.6990356445312
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Mit freundlichen Grüßen  "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                614.0799560546875,
+                                194.87997436523438,
+                                628.698974609375
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Technische Universität München  "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                629.0799560546875,
+                                235.24996948242188,
+                                643.698974609375
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 11.0,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Bewerbung und Immatrikulation"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                644.0799560546875,
+                                225.4709930419922,
+                                658.698974609375
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 11,
+                    "bbox": [
+                        70.86599731445312,
+                        659.512451171875,
+                        72.94349670410156,
+                        669.419921875
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "Arial-ItalicMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": " "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                659.512451171875,
+                                72.94349670410156,
+                                669.419921875
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 12,
+                    "bbox": [
+                        70.86599731445312,
+                        680.512451171875,
+                        534.3145141601562,
+                        690.419921875
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "Arial-ItalicMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Diese Bestätigung sagt nichts über die Vollständigkeit der online Bewerbung aus. Eine Entscheidung über die Bewerbung erfolgt gesondert."
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                680.512451171875,
+                                534.3145141601562,
+                                690.419921875
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 13,
+                    "bbox": [
+                        70.86599731445312,
+                        712.012451171875,
+                        511.20660400390625,
+                        732.419921875
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "Arial-ItalicMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "This mail confirms only the submission - not the completeness of - your online application within the designated application period. A "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                712.012451171875,
+                                511.20660400390625,
+                                721.919921875
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "Arial-ItalicMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "decision on the application will be communicated separately."
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                722.512451171875,
+                                271.13848876953125,
+                                732.419921875
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 15,
+                    "bbox": [
+                        70.86599731445312,
+                        787.9099731445312,
+                        190.41798400878906,
+                        813.9149780273438
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "Arial-BoldMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Technische Universität München"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                787.9099731445312,
+                                187.31399536132812,
+                                798.3049926757812
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "TUM Center for Study and Teaching"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                795.947509765625,
+                                190.41798400878906,
+                                805.9149780273438
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Bewerbung und Immatrikulation"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                803.947509765625,
+                                176.2784881591797,
+                                813.9149780273438
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 16,
+                    "bbox": [
+                        201.25900268554688,
+                        787.9099731445312,
+                        255.0340118408203,
+                        813.9149780273438
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "Arial-BoldMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Kontakt"
+                                }
+                            ],
+                            "bbox": [
+                                201.25900268554688,
+                                787.9099731445312,
+                                229.15899658203125,
+                                798.3049926757812
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Arcisstraße 21"
+                                }
+                            ],
+                            "bbox": [
+                                201.25900268554688,
+                                795.947509765625,
+                                249.57400512695312,
+                                805.9149780273438
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "80333 München"
+                                }
+                            ],
+                            "bbox": [
+                                201.25900268554688,
+                                803.947509765625,
+                                255.0340118408203,
+                                813.9149780273438
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 17,
+                    "bbox": [
+                        331.6520080566406,
+                        787.947509765625,
+                        406.0340270996094,
+                        813.9149780273438
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Tel. +49 89 289 22245"
+                                }
+                            ],
+                            "bbox": [
+                                331.6520080566406,
+                                787.947509765625,
+                                406.0340270996094,
+                                797.9149780273438
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "studium@tum.de"
+                                }
+                            ],
+                            "bbox": [
+                                331.6520080566406,
+                                795.947509765625,
+                                388.4270324707031,
+                                805.9149780273438
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "www.tum.de/studium"
+                                }
+                            ],
+                            "bbox": [
+                                331.6520080566406,
+                                803.947509765625,
+                                400.79949951171875,
+                                813.9149780273438
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 14,
+                    "bbox": [
+                        560.6929931640625,
+                        805.6535034179688,
+                        571.1099853515625,
+                        815.6209716796875
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "1/2"
+                                }
+                            ],
+                            "bbox": [
+                                560.6929931640625,
+                                805.6535034179688,
+                                571.1099853515625,
+                                815.6209716796875
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "width": 595.2750244140625,
+            "height": 841.8889770507812,
+            "blocks": [
+                {
+                    "type": 0,
+                    "number": 0,
+                    "bbox": [
+                        70.86599731445312,
+                        98.9384994506836,
+                        370.8210754394531,
+                        129.8459930419922
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "Arial-ItalicMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": " "
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                98.9384994506836,
+                                72.94349670410156,
+                                108.84600067138672
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "Arial-ItalicMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Dieser Bescheid wurde maschinell erstellt und ist auch ohne Siegel und Unterschrift gültig."
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                109.4384994506836,
+                                370.8210754394531,
+                                119.34600067138672
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "Arial-ItalicMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "This notification has been created automatically and is valid without seal or signature."
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                119.9384994506836,
+                                353.7359619140625,
+                                129.8459930419922
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 2,
+                    "bbox": [
+                        70.86599731445312,
+                        787.9099731445312,
+                        190.41798400878906,
+                        813.9149780273438
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "Arial-BoldMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Technische Universität München"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                787.9099731445312,
+                                187.31399536132812,
+                                798.3049926757812
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "TUM Center for Study and Teaching"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                795.947509765625,
+                                190.41798400878906,
+                                805.9149780273438
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Bewerbung und Immatrikulation"
+                                }
+                            ],
+                            "bbox": [
+                                70.86599731445312,
+                                803.947509765625,
+                                176.2784881591797,
+                                813.9149780273438
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 3,
+                    "bbox": [
+                        201.25900268554688,
+                        787.9099731445312,
+                        255.0340118408203,
+                        813.9149780273438
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "Arial-BoldMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Kontakt"
+                                }
+                            ],
+                            "bbox": [
+                                201.25900268554688,
+                                787.9099731445312,
+                                229.15899658203125,
+                                798.3049926757812
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Arcisstraße 21"
+                                }
+                            ],
+                            "bbox": [
+                                201.25900268554688,
+                                795.947509765625,
+                                249.57400512695312,
+                                805.9149780273438
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "80333 München"
+                                }
+                            ],
+                            "bbox": [
+                                201.25900268554688,
+                                803.947509765625,
+                                255.0340118408203,
+                                813.9149780273438
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 4,
+                    "bbox": [
+                        331.6520080566406,
+                        787.947509765625,
+                        406.0340270996094,
+                        813.9149780273438
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "Tel. +49 89 289 22245"
+                                }
+                            ],
+                            "bbox": [
+                                331.6520080566406,
+                                787.947509765625,
+                                406.0340270996094,
+                                797.9149780273438
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "studium@tum.de"
+                                }
+                            ],
+                            "bbox": [
+                                331.6520080566406,
+                                795.947509765625,
+                                388.4270324707031,
+                                805.9149780273438
+                            ]
+                        },
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "www.tum.de/studium"
+                                }
+                            ],
+                            "bbox": [
+                                331.6520080566406,
+                                803.947509765625,
+                                400.79949951171875,
+                                813.9149780273438
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 0,
+                    "number": 1,
+                    "bbox": [
+                        560.6929931640625,
+                        805.6535034179688,
+                        571.1099853515625,
+                        815.6209716796875
+                    ],
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "size": 7.5,
+                                    "font": "ArialMT",
+                                    "color": 0,
+                                    "alpha": 255,
+                                    "text": "2/2"
+                                }
+                            ],
+                            "bbox": [
+                                560.6929931640625,
+                                805.6535034179688,
+                                571.1099853515625,
+                                815.6209716796875
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
