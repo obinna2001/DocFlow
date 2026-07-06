@@ -30,7 +30,6 @@ app = FastAPI(
         "name": "Okey Obinna",
         "contact": "okeyobinna2001@gmail.com"
     }
-
 )
 
 for middleware_ in MIDDLEWARE_STACK:
