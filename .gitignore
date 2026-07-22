@@ -11,6 +11,9 @@ wheels/
 # Virtual environments
 .venv
 
-# folders
+# File and folders
 tempDB
 docs
+extracted_content.txt
+extracted_content_structured.json
+test/data
