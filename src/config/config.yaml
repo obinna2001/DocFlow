@@ -1,0 +1,7 @@
+fileConfig:
+  document_config:
+    max_size_mb: 10
+    supported_extensions: ['.pdf', '.xps', '.mobi', '.epub', '.fb2', '.cbz', '.svg', '.txt']
+
+  database:
+    temp_db_path: '/Users/indicina/Documents/PERSONAL PROJECTS/DocFlow/tempDB'
