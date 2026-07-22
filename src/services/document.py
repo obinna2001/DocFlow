@@ -40,7 +40,7 @@ async def save_uploaded_file(uploaded_file: UploadFile, request: Request) -> Pat
 
 
 async def validate_document(
-    file: Annotated[UploadFile, File()],
+    file: Annotated[UploadFile, File(alias="document")],
 ) -> UploadFile:
     
     MAX_FILE_SIZE = 10
