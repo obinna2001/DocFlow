@@ -3,7 +3,5 @@
 DocFlow is an asynchronous FastAPI application for document extraction and
 translation.
 
-## Guides
-
-- [Learn databases and Supabase Storage with DocFlow](docs/database-storage-learning-guide.md)
-- [Connect DocFlow to Supabase PostgreSQL and Storage](docs/supabase-postgres.md)
+### Project status: 
+Development is currently paused. The existing implementation is available, but some planned features remain incomplete
